@@ -13,3 +13,5 @@ Quick insights:
 -Darius Slayton emerging as the Giants' deep threat through two weeks
 -Rookie Zay Flowers getting some deep passes, but Ravens are primarily using him in the short/screen game
 -Raschaad White is not getting many looks down field for Tampa, with the bulk of his targets coming behind the line of scrimmage, and none farther than about 7 yards past the LOS 
+
+![NFL Air Yard Density](https://github.com/JustinVasquez/Player-Air-Yards-Distribution/assets/42337938/7bab0842-d4c8-4e30-b209-214dc171d1ea)
