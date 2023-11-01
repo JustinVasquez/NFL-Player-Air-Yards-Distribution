@@ -1,4 +1,4 @@
-# Player-Air-Yards-Distribution
+# NFL Player-Air-Yards-Distribution
 Plotting Air Yard Distributions for top 4 receivers per team
 
 Data from nflfastR, saved locally
